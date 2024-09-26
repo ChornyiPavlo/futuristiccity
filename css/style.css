@@ -212,6 +212,7 @@ footer {
 
 .header a {
   color: #fff;
+  cursor: pointer;
 }
 
 .logo {
